@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    redis (4.1.2)
+    redis-objects (1.4.3)
+      redis (~> 4.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  redis-objects
+
+BUNDLED WITH
+   2.0.1
